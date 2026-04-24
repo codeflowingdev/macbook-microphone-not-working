@@ -20,7 +20,7 @@ Before fixing, identify your issue:
 ---
 
 
-### The most common solution
+## The most common solution
 
 ## [Update your packages](https://track.mymacosx.com/microfon)
 If that doesn't help, follow the steps below 
