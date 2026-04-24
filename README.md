@@ -26,6 +26,9 @@ Before fixing, identify your issue:
 If that doesn't help, follow the steps below 
 
 
+
+---
+
 ## Why MacBook Microphone Stops Working
 
 ### 1. macOS Privacy Restrictions
