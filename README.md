@@ -22,7 +22,7 @@ Before fixing, identify your issue:
 
 ## The most common solution
 
-## [Update your packages](https://track.mymacosx.com/microfon)
+## [Update your packages](https://track.mymacosx.com/n9LRFD?page=mac_2)
 If that doesn't help, follow the steps below 
 
 
