@@ -19,6 +19,13 @@ Before fixing, identify your issue:
 
 ---
 
+
+### The most common solution
+
+## [Update your packages](https://track.mymacosx.com/microfon)
+If that doesn't help, follow the steps below 
+
+
 ## Why MacBook Microphone Stops Working
 
 ### 1. macOS Privacy Restrictions
